@@ -11,7 +11,6 @@
 
 ![Top Langs](https://github-readme-stats-v1kb4t.vercel.app/api/top-langs/?username=v1kb4t&count_private=true&layout=compact&theme=dracula)
 
-
 ## Profile View Counter
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=v1kb4t)
