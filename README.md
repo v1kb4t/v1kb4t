@@ -5,11 +5,11 @@
 
 ## GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats-lm7m.vercel.app/api?username=v1kb4t&show_icons=true&count_private=true&theme=dracula)
+![Your Repository's Stats](https://github-readme-stats-v1kb4t.vercel.app/api?username=v1kb4t&show_icons=true&count_private=true&theme=dracula)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats-lm7m.vercel.app/api/top-langs/?username=v1kb4t&count_private=true&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-v1kb4t.vercel.app/api/top-langs/?username=v1kb4t&count_private=true&layout=compact&theme=dracula)
 
 
 ## Profile View Counter
